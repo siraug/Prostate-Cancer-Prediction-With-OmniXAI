@@ -17,6 +17,12 @@ The Prostate Dataset contains records for 100 patients, including ten variables 
 - symmetry: A measure of the quality of symmetry.
 - fractal_dimension: A combined measure representing both compactness and symmetry.
 
+
+## Code Implementation
+
+Google Colab was used to implement this project. At the initial stage, the necessary packages were installed on Google Colab. The packages installed are omnixai, dash and interpret. Dash is a Python framework used to build data visualization dashboards. Omnixai and interpret are the packages containing the libraries needed for the usage of the OmniXAI framework. Once the packages had been installed, the needed libraries for the tabular data predictions were installed. These libraries also included LIME and SHAP explainers from the selected integrated frameworks. The prostate cancer tabular dataset was uploaded to Google Colab and imported using the file directory on Google Colab.
+
+
 ## Usage
 You can utilize this dataset for various purposes, such as:
 
