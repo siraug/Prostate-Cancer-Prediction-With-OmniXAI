@@ -3,7 +3,7 @@ Healthcare companies are increasingly using AI to lessen the burden on healthcar
 
 
 ## Prostate Cancer
-The prostate gland is a small component of the male reproductive system, roughly the size and shape of a walnut. It is situated in the pelvis, below the bladder, and in front of the rectum. Prostate cancer is a condition where cancer cells develop within the tissues of the prostate. Unlike many other forms of cancer, prostate cancer tends to progress slowly, often taking several years for symptoms to manifest. To diagnose prostate cancer, medical professionals frequently perform a digital rectal exam (DRE). This procedure involves a brief examination of the prostate's size, texture, and rigidity, and the detection of any abnormalities such as hard spots, lumps, or growths that extend beyond the prostate. Any discomfort experienced during the examination is also noted (National Cancer Institute, 2023). 
+The prostate gland is a small component of the male reproductive system, roughly the size and shape of a walnut. It is situated in the pelvis, below the bladder, and in front of the rectum. Prostate cancer is a condition where cancer cells develop within the tissues of the prostate. Unlike many other forms of cancer, prostate cancer tends to progress slowly, often taking several years for symptoms to manifest. To diagnose prostate cancer, medical professionals frequently perform a digital rectal exam (DRE). This procedure involves a brief examination of the prostate's size, texture, rigidity, and the detection of any abnormalities such as hard spots, lumps, or growths that extend beyond the prostate. Any discomfort experienced during the examination is also noted (National Cancer Institute, 2023). 
 
 ## Dataset Description
 The Prostate Dataset contains records for 100 patients, including ten variables (eight numeric and one categorical variable, ID). The dataset, as described by Celik in 2020, includes the following variables:
@@ -17,7 +17,7 @@ The Prostate Dataset contains records for 100 patients, including ten variables 
 - smoothness: Prostate cell smoothness.
 - compactness: The volume of the prostate cell.
 - symmetry: A measure of the quality of symmetry.
-- fractal_dimension: A combined measure representing both compactness and symmetry.
+- fractal_dimension: A combined measure representing both compactness and symmetry. 
 
 
 ## Code Implementation
