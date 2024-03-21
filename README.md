@@ -22,7 +22,7 @@ The Prostate Dataset contains records for 100 patients, including ten variables 
 
 ## Code Implementation
 
-Google Colab was used to implement this project. At the initial stage, the necessary packages were installed on Google Colab. The packages installed are omnixai, dash and interpret. Dash is a Python framework used to build data visualization dashboards. Omnixai and interpret are the packages containing the libraries needed for the usage of the OmniXAI framework. Once the packages had been installed, the needed libraries for the tabular data predictions were installed. These libraries also included LIME and SHAP explainers from the selected integrated frameworks. The prostate cancer tabular dataset was uploaded to Google Colab and imported using the file directory on Google Colab.
+Google Colab was used to implement this project. At the initial stage, the necessary packages were installed on Google Colab. The packages installed are omnixai, dash and Interpret. Dash is a Python framework used to build data visualization dashboards. Omnixai and interpret are the packages containing the libraries needed for the usage of the OmniXAI framework. Once the packages had been installed, the needed libraries for the tabular data predictions were installed. These libraries also included LIME and SHAP explainers from the selected integrated frameworks. The prostate cancer tabular dataset was uploaded to Google Colab and imported using the file directory on Google Colab.
 
 
 ## Usage
@@ -35,13 +35,13 @@ You can utilize this dataset for various purposes, such as:
 
 ## Contributions
 
-Contributions to this repository are highly encouraged. If you have information, resources, or tools related to prostate cancer awareness that you'd like to share, please feel free to submit a pull request.
+I would greatly encourage you to contribute to this repository. If you have information, resources, or tools related to prostate cancer awareness that you'd like to share, please feel free to submit a pull request.
 
 
 ## References
 - Cancer Research UK (2023) Examination of your prostate, https://www.cancerresearchuk.org/about-cancer/tests-and-scans/examination-prostate.
 - Celik, S. (2020) Prostate Cancer Analysis with ML Methods, https://www.kaggle.com/code/sadielik/prostate-cancer-analysis-with-ml-methods.
 - Mcleod, S. (2023) Correlation in Statistics: Meaning, Types, Examples & coefficient, https://www.simplypsychology.org/correlation.html.
-- National Cancer Institute (2023) Understanding Prostate Changes: A Health Guide for Men , https://www.cancer.gov/types/prostate/understanding-prostate-changes.
+- National Cancer Institute (2023) Understanding Prostate Changes: A Health Guide for Men, https://www.cancer.gov/types/prostate/understanding-prostate-changes.
 
 This repository is licensed under [Creative Commons Attribution 4.0 International License](LICENSE.md). Please review the license terms before using or contributing to this project.
